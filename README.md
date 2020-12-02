@@ -3,3 +3,5 @@ This visual storytelling assignment required the use of a company's financial do
 create an excel dashboard which would then be used to best potray the company's financial
 situation through the use of graphs. These graphs would then be used to generate recommendations 
 to the company on what needs to be improved in their financial situation.
+
+Tableau Profile-https://public.tableau.com/profile/kwadwo1887#!/
